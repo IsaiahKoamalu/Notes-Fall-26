@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Search 03.md",
+                "file": "Operating-Systems/Early Memory Management Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search 03"
+              "title": "Early Memory Management Systems"
             }
           }
         ]
@@ -190,8 +190,10 @@
   },
   "active": "577e90cdd00ab97a",
   "lastOpenFiles": [
-    "Welcome.md",
     "Artificial Intelligence/Search 03.md",
+    "Operating-Systems/Early Memory Management Systems.md",
+    "Operating-Systems",
+    "Welcome.md",
     "Artificial Intelligence"
   ]
 }
