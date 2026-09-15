@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Untitled.md",
+                "file": "Natural-Language-Processing/09-LinearRegression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "09-LinearRegression"
             }
           }
         ],
@@ -219,10 +219,12 @@
   },
   "active": "e9486ef5ef959022",
   "lastOpenFiles": [
+    "Artificial Intelligence/09-LinearRegression.md",
+    "Natural-Language-Processing/09-LinearRegression.md",
     "Artificial Intelligence/06-CSP.md",
-    "Artificial Intelligence/Untitled.md",
     "Artificial Intelligence/Placeholder.md",
     "Artificial Intelligence/05-Optimization-2.md",
+    "Database Internals/Lesson 4 - Object Serialization.md",
     "Artificial Intelligence/04-Optimization.md",
     "Artificial Intelligence/03-Search.md",
     "Operating-Systems/Early Memory Management Systems.md",
