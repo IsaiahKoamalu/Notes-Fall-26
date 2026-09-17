@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "21bfc24eb5167955",
+        "id": "66b7e4340a7d15e1",
         "type": "tabs",
         "children": [
           {
-            "id": "577e90cdd00ab97a",
+            "id": "3730c34216157650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/03-Search.md",
+                "file": "Natural-Language-Processing/10-Neural-Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Search"
-            }
-          },
-          {
-            "id": "14dcb6aebd01d77a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/04-Optimization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04-Optimization"
-            }
-          },
-          {
-            "id": "e9486ef5ef959022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/06-CSP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06-CSP"
+              "title": "10-Neural-Networks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,17 +188,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "e9486ef5ef959022",
+  "active": "3730c34216157650",
   "lastOpenFiles": [
-    "Artificial Intelligence/10-Naive-Bayes.md",
     "Natural-Language-Processing/09-LinearRegression.md",
-    "Artificial Intelligence/09-LinearRegression.md",
+    "Natural-Language-Processing/10-Neural-Networks.md",
+    "Artificial Intelligence/03-Search.md",
+    "Artificial Intelligence/04-Optimization.md",
     "Artificial Intelligence/06-CSP.md",
+    "Artificial Intelligence/10-Naive-Bayes.md",
+    "Artificial Intelligence/09-LinearRegression.md",
     "Artificial Intelligence/Placeholder.md",
     "Artificial Intelligence/05-Optimization-2.md",
     "Database Internals/Lesson 4 - Object Serialization.md",
-    "Artificial Intelligence/04-Optimization.md",
-    "Artificial Intelligence/03-Search.md",
     "Operating-Systems/Early Memory Management Systems.md",
     "Operating-Systems",
     "Welcome.md",

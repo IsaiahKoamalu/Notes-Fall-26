@@ -21,3 +21,9 @@
 - Notes:
 	- common variant ...
 	- should be written as ...
+
+## Data Splitting
+- split the available data to simulate test data.
+- Very important to keep them separate
+	- otherwise data leakage
+- Split into 3 separate groups: training, validation, test.
