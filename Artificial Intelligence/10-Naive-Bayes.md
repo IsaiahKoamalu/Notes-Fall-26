@@ -54,3 +54,33 @@
 - Simplifying assumption: conditional independence
 	- often not true, but it makes the calculation much easier and works well in practice.
 	
+
+## Text Classification
+- Given some text, assign a label.
+	Input (some text) &rarr; [MODEL] &rarr; Output (A label)
+	- Label could be: spam detection, authorship attribution, sentimnent analysis, language identification, hate speech detection
+
+## Notation
+- $x=$ the input, a vector of features
+	- e.g.[I, am, Nigerian, prince, please, give, money]
+- y = the label
+	- e.g. spam
+- Classification objective: find the best label
+	$\hat{y} = \text{armgax}_{y \in Y} p(y|x)$
+	- Much of ML is figuring out a good way to do this
+
+## Interpretation
+- Naive Bayes is a generative model
+	- explicitly models the joint distribution $p(x,y)$
+- Generative process: to generate an email
+	- "Cause": select a label $y$ with some probability $p(y)$
+	- "Effect": select words $x_1...x_n$ to include in the email based on probability $p(x_i|y)$
+
+## Training a Naive Bayes Classifier
+- Just counting
+	$p(y)=\frac{\text{\# examples labeled y}}{\text{total \# of examples}}$
+	$p(\text{word}|y=\frac{\text{\# number of times word appears in a y-labeled example}}{\text{total \# of words in y-labeled example}}$
+	$\hat{y}=\text{argmax}_y p(y|x)$
+	$=\text{argmax}_y \frac{p(x|y)p(y)}{p(x)}$
+	$=\text{argmax}_yp(y)\prod_ip(x_i|y)$
+- Note: the denominator disappears.
