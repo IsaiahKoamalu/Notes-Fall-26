@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/16-Machine-Learning.md",
+                "file": "Natural-Language-Processing/20-Optimizers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16-Machine-Learning"
+              "title": "20-Optimizers"
             }
           }
         ]
@@ -190,8 +190,10 @@
   },
   "active": "4e107856e6e3371d",
   "lastOpenFiles": [
-    "Artificial Intelligence/15-Probabilistic-Programming.md",
+    "Operating-Systems/Early Memory Management Systems.md",
+    "Natural-Language-Processing/20-Optimizers.md",
     "Artificial Intelligence/16-Machine-Learning.md",
+    "Artificial Intelligence/15-Probabilistic-Programming.md",
     "Database Internals/10-XML-2.md",
     "Natural-Language-Processing/12-Maximum-Likelihood-1.md",
     "Natural-Language-Processing/N-Gram Models.md",
@@ -207,7 +209,6 @@
     "Artificial Intelligence/Placeholder.md",
     "Artificial Intelligence/05-Optimization-2.md",
     "Database Internals/Lesson 4 - Object Serialization.md",
-    "Operating-Systems/Early Memory Management Systems.md",
     "Operating-Systems",
     "Welcome.md",
     "Artificial Intelligence"
