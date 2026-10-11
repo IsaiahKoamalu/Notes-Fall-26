@@ -1,1 +1,9 @@
 .obsidian
+# Ignore volatile UI-related layout and workspace states
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+
+# Optional: Ignore other volatile caches and indexes
+.obsidian/cache/
+.obsidian/graph.json

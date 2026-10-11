@@ -1,0 +1,2 @@
+- Training loss decreases to 0 (starts to memorize)
+- Validation loss decreases to a point then increases (since model starts memorizing training data)
