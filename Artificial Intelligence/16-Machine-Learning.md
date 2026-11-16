@@ -6,4 +6,7 @@
 - Supervised learning: given $(x, y)$ learn a mapping from $x$ to $y$.
 	- $y =$  number then regression
 	- $y =$ label then classification
-- Unsupervised Learning: given data $x$ learn patterns in $x$ without 
+- Unsupervised Learning: given data $x$ learn patterns in $x$ without
+
+## Flow-Cycle
+Business goal -> ML Problem framing -> Data processing -> Modek Development -> Deployment -> Monitoring (model development) 
